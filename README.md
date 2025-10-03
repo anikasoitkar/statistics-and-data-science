@@ -2,7 +2,7 @@
 ## Featured Analyses
 
 ### “The Impact of Bye Weeks on NFL Team Performance”  
-*Elly Goan & Anika Soitkar*  
+*Anna Van & Anika Soitkar*  
 Published on Bruins Sports Analytics  
 [Read the full article →](https://www.bruinsportsanalytics.com/post/nfl-bye-weeks)  
 
